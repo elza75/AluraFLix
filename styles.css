@@ -7,4 +7,9 @@ body{
 header {
     border: solid 2px cadetblue;
     padding: 20px;
+    font-size: 32px; 
+    color: cadetblue;
+}
+section{
+    background: rgb#1d2c37;
 }
