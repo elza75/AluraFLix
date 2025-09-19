@@ -11,5 +11,9 @@ header {
     color: cadetblue;
 }
 section{
-    background: rgb#1d2c37;
+    background:  rgb(17, 17, 41);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
